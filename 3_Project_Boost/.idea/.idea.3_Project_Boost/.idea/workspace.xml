@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df8d4317-6bbb-445a-8fef-cc47cdca840b" name="Default Changelist" comment="" />
+    <list default="true" id="df8d4317-6bbb-445a-8fef-cc47cdca840b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.3_Project_Boost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3_Project_Boost/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rocket.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rocket.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rocket.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rocket.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/11/11e6cec5abb27416baca5a17f97fc090.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/11/11e6cec5abb27416baca5a17f97fc090.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/6c/6c02c80e0cd7b4b98bffbd917422775b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/6c/6c02c80e0cd7b4b98bffbd917422775b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-008c926edd6d84c348ec1460bc362d6d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-13e085dfd19324edea48b282bb8a639c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1d40abdc3bf63461d9e3a7088e88a365" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2369b5f38ac64422f8c6d020007add8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2ed220c37b6774dc0bde76fbe6962e38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3f6b2b4b8001d4d389b171705519850c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-48d9ef233db53457cba4c3644252782f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-56d9cac9b3ed14680b2de01773a9f36c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6b53a47feae76424f9fb4a2dadba7320" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-726d0823b9ce6466397d59ac5a9ae808" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-81bb6db821a69417b8b20f1272981c6d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-860f60cde89364f0780af5f2501e9994" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ef5a00d0c7ae64095b72b7b9d4d6f2ef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ff0449d37eec3481a956f895fd44bf16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,40 +40,43 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="364" />
+          <entry key="cs" value="681" />
           <entry key="txt" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="364" />
+          <entry key="C#" value="681" />
           <entry key="PLAIN_TEXT" value="50" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Rocket.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="413">
+              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
               <folding>
-                <marker date="1544141194499" expanded="false" signature="6:121" ph="..." />
-                <marker date="1544141194499" expanded="true" signature="159:642" ph="{...}" />
-                <marker date="1544141194499" expanded="true" signature="232:278" ph="{...}" />
-                <marker date="1544141194499" expanded="true" signature="332:356" ph="{...}" />
-                <marker date="1544141194499" expanded="true" signature="386:640" ph="{...}" />
-                <marker date="1544141194499" expanded="true" signature="424:475" ph="{...}" />
-                <marker date="1544141194499" expanded="true" signature="507:553" ph="{...}" />
-                <marker date="1544141194499" expanded="true" signature="590:637" ph="{...}" />
+                <marker date="1546458807792" expanded="false" signature="6:146" ph="..." />
+                <marker date="1546458807792" expanded="true" signature="184:890" ph="{...}" />
+                <marker date="1546458807792" expanded="true" signature="283:424" ph="{...}" />
+                <marker date="1546458807792" expanded="true" signature="372:418" ph="/* audiosource.Play(0); ... */" />
+                <marker date="1546458807792" expanded="true" signature="478:502" ph="{...}" />
+                <marker date="1546458807792" expanded="true" signature="532:888" ph="{...}" />
+                <marker date="1546458807792" expanded="true" signature="596:720" ph="{...}" />
+                <marker date="1546458807792" expanded="true" signature="673:688" ph="{...}" />
+                <marker date="1546458807792" expanded="true" signature="752:798" ph="{...}" />
+                <marker date="1546458807792" expanded="true" signature="835:882" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -74,8 +104,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="535" />
-    <option name="y" value="260" />
+    <option name="x" value="-85" />
+    <option name="y" value="197" />
     <option name="width" value="1145" />
     <option name="height" value="800" />
   </component>
@@ -88,10 +118,10 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,6 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1544138150090</updated>
       <workItem from="1544138155519" duration="2922000" />
+      <workItem from="1546457133545" duration="1587000" />
     </task>
     <task id="LOCAL-00001" summary="added input">
       <created>1544138437510</created>
@@ -164,7 +195,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2922000" />
+    <option name="totallyTimeSpent" value="4509000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -176,20 +207,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="535" y="260" width="1145" height="800" extended-state="0" />
+    <frame x="-85" y="197" width="1145" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24932003" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25385314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -197,11 +220,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,17 +262,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Rocket.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="413">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
           <folding>
-            <marker date="1544141194499" expanded="false" signature="6:121" ph="..." />
-            <marker date="1544141194499" expanded="true" signature="159:642" ph="{...}" />
-            <marker date="1544141194499" expanded="true" signature="232:278" ph="{...}" />
-            <marker date="1544141194499" expanded="true" signature="332:356" ph="{...}" />
-            <marker date="1544141194499" expanded="true" signature="386:640" ph="{...}" />
-            <marker date="1544141194499" expanded="true" signature="424:475" ph="{...}" />
-            <marker date="1544141194499" expanded="true" signature="507:553" ph="{...}" />
-            <marker date="1544141194499" expanded="true" signature="590:637" ph="{...}" />
+            <marker date="1546458807792" expanded="false" signature="6:146" ph="..." />
+            <marker date="1546458807792" expanded="true" signature="184:890" ph="{...}" />
+            <marker date="1546458807792" expanded="true" signature="283:424" ph="{...}" />
+            <marker date="1546458807792" expanded="true" signature="372:418" ph="/* audiosource.Play(0); ... */" />
+            <marker date="1546458807792" expanded="true" signature="478:502" ph="{...}" />
+            <marker date="1546458807792" expanded="true" signature="532:888" ph="{...}" />
+            <marker date="1546458807792" expanded="true" signature="596:720" ph="{...}" />
+            <marker date="1546458807792" expanded="true" signature="673:688" ph="{...}" />
+            <marker date="1546458807792" expanded="true" signature="752:798" ph="{...}" />
+            <marker date="1546458807792" expanded="true" signature="835:882" ph="{...}" />
           </folding>
         </state>
       </provider>
