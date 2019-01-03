@@ -4,29 +4,12 @@
     <list default="true" id="df8d4317-6bbb-445a-8fef-cc47cdca840b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.3_Project_Boost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3_Project_Boost/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Rocket.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rocket.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rocket.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rocket.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/11/11e6cec5abb27416baca5a17f97fc090.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/11/11e6cec5abb27416baca5a17f97fc090.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/6c/6c02c80e0cd7b4b98bffbd917422775b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/6c/6c02c80e0cd7b4b98bffbd917422775b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-008c926edd6d84c348ec1460bc362d6d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-13e085dfd19324edea48b282bb8a639c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-1d40abdc3bf63461d9e3a7088e88a365" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2369b5f38ac64422f8c6d020007add8c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2ed220c37b6774dc0bde76fbe6962e38" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-3f6b2b4b8001d4d389b171705519850c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-48d9ef233db53457cba4c3644252782f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-56d9cac9b3ed14680b2de01773a9f36c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6b53a47feae76424f9fb4a2dadba7320" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-726d0823b9ce6466397d59ac5a9ae808" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-81bb6db821a69417b8b20f1272981c6d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-860f60cde89364f0780af5f2501e9994" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ef5a00d0c7ae64095b72b7b9d4d6f2ef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ff0449d37eec3481a956f895fd44bf16" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,22 +22,23 @@
     <session id="-723401185">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="681" />
-          <entry key="txt" value="50" />
+          <entry key="cs" value="782" />
+          <entry key="txt" value="119" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="681" />
-          <entry key="PLAIN_TEXT" value="50" />
+          <entry key="C#" value="782" />
+          <entry key="PLAIN_TEXT" value="119" />
         </counts>
       </usages-collector>
     </session>
@@ -64,19 +48,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Rocket.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+            <state relative-caret-position="570">
+              <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
               <folding>
-                <marker date="1546458807792" expanded="false" signature="6:146" ph="..." />
-                <marker date="1546458807792" expanded="true" signature="184:890" ph="{...}" />
-                <marker date="1546458807792" expanded="true" signature="283:424" ph="{...}" />
-                <marker date="1546458807792" expanded="true" signature="372:418" ph="/* audiosource.Play(0); ... */" />
-                <marker date="1546458807792" expanded="true" signature="478:502" ph="{...}" />
-                <marker date="1546458807792" expanded="true" signature="532:888" ph="{...}" />
-                <marker date="1546458807792" expanded="true" signature="596:720" ph="{...}" />
-                <marker date="1546458807792" expanded="true" signature="673:688" ph="{...}" />
-                <marker date="1546458807792" expanded="true" signature="752:798" ph="{...}" />
-                <marker date="1546458807792" expanded="true" signature="835:882" ph="{...}" />
+                <marker date="1546546437204" expanded="false" signature="6:146" ph="..." />
+                <marker date="1546546437204" expanded="true" signature="184:1028" ph="{...}" />
+                <marker date="1546546437204" expanded="true" signature="283:424" ph="{...}" />
+                <marker date="1546546437204" expanded="true" signature="372:418" ph="/* audiosource.Play(0); ... */" />
+                <marker date="1546546437204" expanded="true" signature="478:508" ph="{...}" />
+                <marker date="1546546437204" expanded="true" signature="533:761" ph="{...}" />
+                <marker date="1546546437204" expanded="true" signature="571:758" ph="{...}" />
+                <marker date="1546546437204" expanded="true" signature="649:683" ph="{...}" />
+                <marker date="1546546437204" expanded="true" signature="691:725" ph="{...}" />
+                <marker date="1546546437204" expanded="true" signature="785:1024" ph="{...}" />
+                <marker date="1546546437204" expanded="true" signature="854:900" ph="{...}" />
+                <marker date="1546546437204" expanded="true" signature="937:984" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -104,8 +90,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-85" />
-    <option name="y" value="197" />
+    <option name="x" value="593" />
+    <option name="y" value="82" />
     <option name="width" value="1145" />
     <option name="height" value="800" />
   </component>
@@ -168,7 +154,8 @@
       <option name="presentableId" value="Default" />
       <updated>1544138150090</updated>
       <workItem from="1544138155519" duration="2922000" />
-      <workItem from="1546457133545" duration="1587000" />
+      <workItem from="1546457133545" duration="2026000" />
+      <workItem from="1546537085473" duration="3093000" />
     </task>
     <task id="LOCAL-00001" summary="added input">
       <created>1544138437510</created>
@@ -191,11 +178,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544141849938</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Sound effects when you press spacekey &#10;soundeffect from : https://freesound.org/people/LimitSnap_Creations/sounds/318688/">
+      <created>1546458954220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1546458954220</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4509000" />
+    <option name="totallyTimeSpent" value="8041000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -207,10 +201,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-85" y="197" width="1145" height="800" extended-state="0" />
+    <frame x="593" y="82" width="1145" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25385314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25838622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -247,7 +241,8 @@
     <MESSAGE value="added input" />
     <MESSAGE value="add force to rocket" />
     <MESSAGE value="added rotation" />
-    <option name="LAST_COMMIT_MESSAGE" value="added rotation" />
+    <MESSAGE value="Added Sound effects when you press spacekey &#10;soundeffect from : https://freesound.org/people/LimitSnap_Creations/sounds/318688/" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Sound effects when you press spacekey &#10;soundeffect from : https://freesound.org/people/LimitSnap_Creations/sounds/318688/" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -262,19 +257,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Rocket.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        <state relative-caret-position="570">
+          <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
           <folding>
-            <marker date="1546458807792" expanded="false" signature="6:146" ph="..." />
-            <marker date="1546458807792" expanded="true" signature="184:890" ph="{...}" />
-            <marker date="1546458807792" expanded="true" signature="283:424" ph="{...}" />
-            <marker date="1546458807792" expanded="true" signature="372:418" ph="/* audiosource.Play(0); ... */" />
-            <marker date="1546458807792" expanded="true" signature="478:502" ph="{...}" />
-            <marker date="1546458807792" expanded="true" signature="532:888" ph="{...}" />
-            <marker date="1546458807792" expanded="true" signature="596:720" ph="{...}" />
-            <marker date="1546458807792" expanded="true" signature="673:688" ph="{...}" />
-            <marker date="1546458807792" expanded="true" signature="752:798" ph="{...}" />
-            <marker date="1546458807792" expanded="true" signature="835:882" ph="{...}" />
+            <marker date="1546546437204" expanded="false" signature="6:146" ph="..." />
+            <marker date="1546546437204" expanded="true" signature="184:1028" ph="{...}" />
+            <marker date="1546546437204" expanded="true" signature="283:424" ph="{...}" />
+            <marker date="1546546437204" expanded="true" signature="372:418" ph="/* audiosource.Play(0); ... */" />
+            <marker date="1546546437204" expanded="true" signature="478:508" ph="{...}" />
+            <marker date="1546546437204" expanded="true" signature="533:761" ph="{...}" />
+            <marker date="1546546437204" expanded="true" signature="571:758" ph="{...}" />
+            <marker date="1546546437204" expanded="true" signature="649:683" ph="{...}" />
+            <marker date="1546546437204" expanded="true" signature="691:725" ph="{...}" />
+            <marker date="1546546437204" expanded="true" signature="785:1024" ph="{...}" />
+            <marker date="1546546437204" expanded="true" signature="854:900" ph="{...}" />
+            <marker date="1546546437204" expanded="true" signature="937:984" ph="{...}" />
           </folding>
         </state>
       </provider>
